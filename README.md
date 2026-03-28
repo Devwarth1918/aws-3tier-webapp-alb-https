@@ -1,5 +1,5 @@
-# aws-3tier-webapp-alb-https
-🚀 AWS 3-Tier Web Application Deployment
+# aws-2tier-webapp-alb-https
+🚀 AWS 2-Tier Web Application Deployment
 
 📌 Overview
 
